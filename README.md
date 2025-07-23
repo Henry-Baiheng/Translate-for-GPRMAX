@@ -8,7 +8,7 @@
 
 ## 项目简介
 
-* 本项目基于 gprMax 官方英文文档，仅对**作者关心和实际使用到的主要内容进行有针对性的中文翻译与总结**，**不涵盖全部文档内容**。
+* 本项目基于 [gprMax 官方英文文档](https://docs.gprmax.com/en/latest/)，仅对**作者关心和实际使用到的主要内容进行有针对性的中文翻译与总结**，**不涵盖全部文档内容**。建议用户结合原文档获取最完整、最新信息。
 * 汉化内容以**实用性为主**，聚焦于作者在个人学习、科研、仿真应用过程中高频使用的模块、命令和参数设置。
 * 为便于结构化梳理与个人理解，**所有汉化内容及经验均采用 XMind 思维导图进行整理与呈现**，思维导图文件对有类似需求的用户开放参考。
 * 本项目**与 gprMax 官方及其开发团队无任何隶属或合作关系**，仅供个人学习与研究使用。
@@ -49,7 +49,7 @@
 
 ## Introduction
 
-* This repository provides a **partial Chinese translation** of the official gprMax documentation, **covering only the features, modules, and workflows most relevant to the author's own learning and research**.
+* This repository is based on the [official gprMax documentation](https://docs.gprmax.com/en/latest/) and provides a **partial Chinese translation** of features and workflows most relevant to the author's own learning and research. For the complete and most up-to-date information, please refer to the official documentation.
 * Translation is selective and practical, reflecting the author’s hands-on experience with frequently used commands, simulation setups, and parameter configurations.
 * **All translated and organized content is presented as XMind mind maps** for clarity and structured reference, and are open for other learners to use as a reference.
 * **This project is not affiliated with the official gprMax team or developers**, and is intended for personal study and research only.
@@ -83,6 +83,3 @@
 **如有版权问题，请及时与我联系，我将第一时间下架相关内容。**
 *If there are any copyright concerns, please contact me and I will remove the content immediately.*
 
----
-
-如果需要进一步定制，比如加上 XMind 文件的目录展示，或后续补充汉化条目示例，可以告诉我！
